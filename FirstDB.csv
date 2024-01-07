@@ -1,0 +1,24 @@
+ID;Platform;OS;Software;Res;WebGL;BOT
+1;X11;Linux;Chrome;1855951;Google Inc.~Google SwiftShader;NOT
+2;X11;Linux;Chromium;1855951;Google Inc.~Google SwiftShader;NOT
+3;X11;Ubuntu;Firefox;1855951;VMware, Inc.~llvmpipe (LLVM 5.0, 256 bits);NOT
+4;Unknown;Linux;PhantomJS;1024768;NONE;BOT
+5;X11;Linux;Chrome;1855951;Google Inc.~Google SwiftShader;BOT
+6;X11;Linux;Chrome Headless;640480;Google Inc.~Google SwiftShader;BOT
+7;X11;Linux;Chromium;1855951;Google Inc.~Google SwiftShader;BOT
+8;X11;Ubuntu;Chromium;640480;Google Inc.~Google SwiftShader;BOT
+9;X11;Ubuntu;Firefox;1855951;VMware, Inc.~llvmpipe (LLVM 5.0, 256 bits);BOT
+10;X11;Ubuntu;Firefox;1366768;NONE;BOT
+11;X11;Linux;Electron;1855951;NONE;BOT
+12;X11;Linux;Electron;1855951;NONE;BOT
+13;X11;Linux;Chrome;1855951;Google Inc.~Google SwiftShader;BOT
+14;X11;Linux;Chrome Headless;800600;Google Inc.~Google SwiftShader;BOT
+15;X11;Linux;Chrome;1855951;Google Inc.~Google SwiftShader;BOT
+16;X11;Linux;Chrome Headless;800600;Google Inc.~Google SwiftShader;BOT
+17;Windows NT;Win64;IE;19201040;NVIDIA;NOT
+18;Windows NT;Win64;Edge;19201040;NVIDIA;NOT
+19;Windows NT;Win64;Edge;19201040;NVIDIA;BOT
+20;Windows NT;WOW64;IE;19201040;NVIDIA;BOT
+21;Macintosh;Mac OS;Firefox;960540;Apple M1;NOT
+22;X11;Linux;Firefox;19201080;Intel(R) HD Graphics;NOT
+23;Windows NT;Win64;Chrome;19201080;NVIDIA;NOT
