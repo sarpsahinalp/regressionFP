@@ -8,4 +8,3 @@ scipy
 notebook
 jupyter
 statsmodels
-requests
